@@ -1,0 +1,245 @@
+body
+{
+  margin:0%;
+}
+    .sub-header1
+    {
+        width:70%;
+        height: 48px;                    
+        background-color:rgb(0, 102, 167);;
+        float: left;
+    }
+                 .sub-header2
+                   {
+                     width:30%;
+                     height: 48px;
+                     background-color:rgb(0, 102, 167);;
+                     float: left;
+                    }
+    .img1
+    {
+        margin-top:0px;
+        padding-left: 45%;
+        width: 240px;
+        height:45px;
+        cursor: pointer;  
+
+    }
+    .section1
+    {
+        width:50%;
+        height: 410px;
+        background-color:rgb(242, 242, 242);
+        float: left;
+    }
+             .img-logo
+             {
+                margin-top: 11%;
+                margin-left: 80px;
+                width:43%;
+                height:49px;
+             }
+             .sec1-text
+             {
+                background-color:rgb(242, 242, 242);
+                height:100px;
+                width: 90%;
+                margin-top: -8%;
+                margin-left: 75px;
+                margin-bottom: 50%;
+                letter-spacing: 0px;
+                line-height: 29px;
+             }
+             .text-logo
+            {
+                font-family: proxima-nova, sans-serif;
+                font-size: 20px;
+                color:rgb(106, 103, 110);
+                margin-top:77px;
+                margin-left:5px;
+            }
+    .sec1-bar
+    {
+        height:55px;
+        width: 100%;
+        margin-top: -49%;
+        margin-left: 75px;
+        margin-bottom: 50%;
+        background-color:rgb(242, 242, 242);
+    }
+               .radio-text
+               {
+                margin-left: -7;
+                font-size: 1rem;
+                font-weight: 540;
+                border-color: aqua;
+                color: rgb(0, 102, 167);
+                font-family: proxima-nova, sans-serif;
+                cursor: pointer; 
+               }
+   .search-bar
+    {
+        height:50px;
+        width: 75%;
+        margin-left: 78px;
+        background-color:#fff;
+        margin-top: -52%;
+        border: 1px solid rgb(182, 223, 238);
+    }
+        .map
+        {
+            height: 50px;
+            width: 45px;
+            background-color:#fff;
+
+        }
+                    .map-logo
+                     {
+                        height: 30px;
+                        width: 25px;
+                        margin-left: 9px;
+                        margin-top: 10px;
+                        cursor: pointer; 
+                     }
+                     .search-text
+                     {
+                        margin-left: 40px;
+                        margin-top: -49px; 
+                        
+                     }
+                     .text-inside
+                     {
+                        padding:13px ;
+                        font-family: proxima-nova, sans-serif;
+                        font-size: 15px;
+                        color: rgb(0, 0, 0);
+                        border:none;
+
+                     }
+
+                     ::placeholder
+                     {
+                        color: rgb(182, 223, 238);
+                        font-weight: 5px;
+                     }
+                     .submit
+                     {
+                        margin-left: 415px;
+                        margin-top: -40px;
+                        width:80px;
+                        height: 30px;
+                        background-color:rgb(0, 171, 0);
+                        cursor: pointer;
+                     }
+           
+    .section2
+    {
+        width:50%;
+        height: 407px;
+        background-color:rgb(242, 242, 242);
+        float: left;
+    }
+            .img2
+            {
+                cursor: pointer;
+                margin:0%;
+                height:410px;
+                width:100%
+            }
+    .section3
+    {
+        height: 133px;
+        width:100%;
+        background-color:rgb(242, 242, 242);
+        float: left;
+    }
+            .add1
+             {
+                margin-top: 10px;
+                height: 120px;
+                width: 50%;
+                background-color:#fff;
+                float: left;
+             }
+             .img3
+             {
+                margin-top: 0px;
+                height: 120px;
+                width:100%;
+                
+             }
+             
+            .img4
+            {
+                margin-top: 10px;
+                height: 120px;
+                width:50%;
+                cursor: pointer;
+            }
+             /* .section4.o
+            {
+              width:100%;
+              height:50px;
+              background-color:  rgb(147, 117, 117);
+              float: left; 
+            }*/
+            .section4
+            {
+                width:100%;
+                height:205px;
+                background-color: rgb(242, 242, 242);
+                float: left;
+            }
+            .section4A
+            {
+                margin-top: 20px;
+                width:100%;
+                height:180px;
+                background-color: rgb(242, 242, 242);
+                /* float: left; */
+            }
+
+
+            .offer-text
+            {
+                margin-left: 110px;
+                margin-top: 33px;
+                color: rgb(95, 136, 163);
+                font-size: 18px;
+                font-family: proxima-nova, sans-serif;
+            }
+            .imgoffer
+            {
+                margin-left:110px;
+                height: 100px;
+                width:194px;
+                cursor: pointer;
+            }
+            .section5A
+            {
+                width:100%;
+                height:170px;
+                background-color:rgb(52, 70, 77);
+                float: left;
+             } 
+            .img5A
+            {
+                width:100%;
+                height:170px;  
+            }
+            .section6
+            {
+                border-top:groove;
+                border-color:rgb(95, 136, 163);
+                width:100%;
+                height:65px;
+                background-color: rgb(26, 39, 53);
+                float: left;
+            }
+            .text-sec6
+            {
+                font-size: ;
+                color:rgb(92, 111, 131);
+                text-align: center;
+            }
+    
